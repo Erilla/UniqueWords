@@ -1,0 +1,6 @@
+c:\users\smile\documents\visual studio 2017\Projects\UniqueWords\UniqueWords\bin\Debug\UniqueWords.exe.config
+c:\users\smile\documents\visual studio 2017\Projects\UniqueWords\UniqueWords\bin\Debug\UniqueWords.exe
+c:\users\smile\documents\visual studio 2017\Projects\UniqueWords\UniqueWords\bin\Debug\UniqueWords.pdb
+c:\users\smile\documents\visual studio 2017\Projects\UniqueWords\UniqueWords\obj\Debug\UniqueWords.csprojResolveAssemblyReference.cache
+c:\users\smile\documents\visual studio 2017\Projects\UniqueWords\UniqueWords\obj\Debug\UniqueWords.exe
+c:\users\smile\documents\visual studio 2017\Projects\UniqueWords\UniqueWords\obj\Debug\UniqueWords.pdb

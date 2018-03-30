@@ -1,0 +1,5 @@
+c:\users\smile\documents\visual studio 2017\Projects\UniqueWords\UniqueWords\bin\Release\UniqueWords.exe.config
+c:\users\smile\documents\visual studio 2017\Projects\UniqueWords\UniqueWords\bin\Release\UniqueWords.exe
+c:\users\smile\documents\visual studio 2017\Projects\UniqueWords\UniqueWords\bin\Release\UniqueWords.pdb
+c:\users\smile\documents\visual studio 2017\Projects\UniqueWords\UniqueWords\obj\Release\UniqueWords.exe
+c:\users\smile\documents\visual studio 2017\Projects\UniqueWords\UniqueWords\obj\Release\UniqueWords.pdb
